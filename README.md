@@ -2,7 +2,7 @@
 
 ## AWS
 
-- [Day 1- Introduction to CloudWatch Metrics](https://medium.com/faun/100-days-of-devops-day-1-introduction-to-cloudwatch-metrics-b04be36307a8)
+- [*Day 1- Introduction to CloudWatch Metrics](https://medium.com/faun/100-days-of-devops-day-1-introduction-to-cloudwatch-metrics-b04be36307a8)
 - [Day 2- Introduction to Simple Notification Service(SNS)](https://medium.com/@devopslearning/100-days-of-devops-day-2-introduction-to-simple-notification-service-sns-97137b2f1f1e)
 - [Day 3- Introduction to CloudTrail](https://medium.com/@devopslearning/100-days-of-devops-day-3-introduction-to-cloudtrail-5ce923f44584)
 - [Day 4- CloudWatch log agent Installation — Centos7](https://medium.com/@devopslearning/100-days-of-devops-day-4-cloudwatch-log-agent-installation-centos7-d11054fffdf4)
