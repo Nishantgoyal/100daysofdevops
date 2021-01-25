@@ -1,0 +1,7 @@
+# 
+
+
+resource "aws_key_pair" "cloudwatch_logs_key" {
+  key_name   = "cloudwatch_logs-key"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDO2PzRRAgOiHKq8e5LlSOiBgX43xXV+YtwDQmvzRI4VqFE+Eb4vPdZFN/6Yjlr/Wo34Yi56PEpr7bLVhYlkV+t9wAqTvCZ6hn9OcpdI6yuE0PUPFVeVUbKnjrdraaIencR6gXnkleBOkJe4wKYiZtkquuZ8Z/xWsvmrf5Q1pxI3fas6r1Rkof27ACKUGk/Y3RiCchPtJ4565dvVe2G7HWmn+uoCgr9menjva52sRK0WeNKltddh/RydkhNCIzfvjvXATis1t+WCG1DgY96mcA1yCVMYae8Gv9YNi1i8erc23FCTtkjKf0pmUWZceeY6l+90v+PQKfKMpRITMf0O59CROXc24jxBjKxvjZQA1pj0FcZWysOmn5T7pN1CbdJA9L5tgDtJTjHul1yyYypRBVK66zu9hrKCumz1PODRLGMxtW5aSNVkQZb5y0T55SFfXnmKxN+EH56d449lY+pF0BgCG6i2j1FcNtx3/EJKkEKPuA+QkDobBmQ5NEYMq5cL00= nishant.goyal@FD2020MLT051-1111.local"
+}
