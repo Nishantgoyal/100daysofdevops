@@ -1,4 +1,4 @@
-# Day 2 - CloudWatch log agent Installation — Centos7
+# Day 4 - CloudWatch log agent Installation — Centos7
 
 [CloudWatch log agent Installation — Centos7](https://medium.com/@devopslearning/100-days-of-devops-day-4-cloudwatch-log-agent-installation-centos7-d11054fffdf4)
 

@@ -1,4 +1,4 @@
-# Day 2 - Introduction to CloudTrail
+# Day 3 - Introduction to CloudTrail
 
 [Introduction to Introduction to CloudTrail](https://medium.com/@devopslearning/100-days-of-devops-day-3-introduction-to-cloudtrail-5ce923f44584)
 
